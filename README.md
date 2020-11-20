@@ -4,7 +4,7 @@
 
 ### Como executar
 
-**Clone este repositório: 
+**Clone este repositório:** https://github.com/DioneDev/IMC_WEB.git 
 
 ### GIF IMC
 
