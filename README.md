@@ -12,7 +12,7 @@
 
 - **Execute:** code .  (É necessario um espaço entre a palavra code e o ponto final **_Isto irá abrir o arquivo no seu VS Code_**)
 
-- **Pronto!!** Só abrir em seu navegador. 
+- **Pronto!!** Só abrir em seu navegador e dar aquela conferida em seu IMC. 
 
 ### GIF IMC
 
