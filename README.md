@@ -4,7 +4,13 @@
 
 ### Como executar
 
-**Clone este repositório:** https://github.com/DioneDev/IMC_WEB.git 
+- **Clone este repositório:** https://github.com/DioneDev/IMC_WEB.git 
+
+- Abra a pasta em seu terminal.
+
+- **Execute:** code .  _Isto irá abrir o arquivo no seu VS Code (Visual Studio Code)_
+
+- **Pronto!!** Só abrir em seu navegador. 
 
 ### GIF IMC
 
