@@ -8,7 +8,7 @@
 
 - Abra a pasta em seu terminal.
 
-- **Execute:** code .  _Isto irá abrir o arquivo no seu VS Code (Visual Studio Code)_
+- **Execute:** code .  (_Isto irá abrir o arquivo no seu VS Code (Visual Studio Code))_
 
 - **Pronto!!** Só abrir em seu navegador. 
 
