@@ -8,7 +8,7 @@
 
 - Abra a pasta em seu terminal.
 
-- _**Se você utiliza o VC CODE (Visual Studio Code)_**
+- **_Se você utiliza o VC CODE (Visual Studio Code)_**
 
 - **Execute:** code .  (É necessario um espaço entre a palavra code e o ponto final **_Isto irá abrir o arquivo no seu VS Code_**)
 
